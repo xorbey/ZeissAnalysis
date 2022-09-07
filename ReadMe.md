@@ -1,6 +1,6 @@
 # Readme
 
-This repo holds Code to analyze Eminem lyrics and Zeiss web pages. 
+This repo holds code to analyze Eminem lyrics and Zeiss web pages. 
 
 The objective is to find out, whether Eminem or Zeiss plagiarize themselves.
 
